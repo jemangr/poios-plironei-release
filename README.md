@@ -64,7 +64,7 @@
 
 | App | Περιγραφή | Σύνδεσμος |
 | :--- | :--- | :--- |
-| 💀 **Τεστ Κοτσιών** | Μετρητής ψυχραιμίας, τρόμος, φάρσες &amp; 9:16 βίντεο | [jemangr.app/test-kotsion](https://jemangr.app/test-kotsion/) |
+| 💀 **Έχεις Κότσια;** | Do you have the guts? Μετρητής ψυχραιμίας, τρόμος, φάρσες &amp; κάρτα 9:16 | [jemangr.app/test-kotsion](https://jemangr.app/test-kotsion/) |
 | 🎲 **GameNight** | 62 ελληνικά παιχνίδια παρέας offline σε ένα κινητό | [jemangr.app/gamenight](https://jemangr.app/gamenight/) |
 | 👻 **Pass & Play Terror** | Ασύμμετρο party horror &amp; μυστήριο για 1–8 άτομα | [jemangr.app/pass-n-play-terror](https://jemangr.app/pass-n-play-terror/) |
 | 🤬 **Binelik AI** | Ξέσπα σε 13+ ελληνικούς AI χαρακτήρες | [jemangr.app/binelik-ai](https://jemangr.app/binelik-ai/) |
