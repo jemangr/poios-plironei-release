@@ -1,5 +1,8 @@
 # Changelog — Ποιος Πληρώνει; (`poios-plironei`)
 
+## v1.0.1 (2026-11-20)
+* 🎨 **Custom Android Launcher, Adaptive & Splash Icons:** Αντικατάσταση των default εικονιδίων του Capacitor με το αυθεντικό εικονίδιο κεραυνού/ρουλέτας σε όλα τα Android mipmap μεγέθη (`mdpi`–`xxxhdpi`), round/adaptive foreground & σκοτεινό `#09090F` splash screen.
+
 ## v1.0.0 (2026-11-20)
 * 🎉 Αρχική κυκλοφορία Android APK (`poios-plironei.apk`) & Web PWA (`jemangr.app/poios-plironei/`).
 * 🖐️ Multi-Touch Αρένα 2–10 παικτών με 60fps neon rings & έλεγχο αποχώρησης («Κότα λυράτη!»).
