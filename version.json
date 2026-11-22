@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "tag": "v1.0.1",
+  "version": "1.1.0",
+  "tag": "v1.1.0",
   "apkUrl": "https://github.com/jemangr/poios-plironei-release/releases/latest/download/poios-plironei.apk",
-  "releaseUrl": "https://github.com/jemangr/poios-plironei-release/releases/tag/v1.0.1",
-  "notes": "v1.0.1: Custom Android launcher, adaptive & round icons + dark #09090F splash screens replacing default Capacitor placeholders."
+  "releaseUrl": "https://github.com/jemangr/poios-plironei-release/releases/tag/v1.1.0",
+  "notes": "v1.1.0: Bouncy Cartoon 3D (Gold & Goblins) UI overhaul — Tavern Wood & Gold 2α theme, offline Greek GameDisplay font, glossy 3D pillow buttons, protruding hero CTA, 22 baked 3D cartoon icons, and full canvas strokeText rendering."
 }
